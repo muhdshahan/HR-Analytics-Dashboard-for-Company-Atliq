@@ -30,3 +30,15 @@ The report provides a comprehensive analysis of **students' admission performanc
 - **Eligibility**: 22 students meet college requirements.
 - **Gender Dynamics**: Male students form the majority, but females also achieve top scores.
 - **City Comparison**: Balanced student distribution across cities.
+
+## Image Preview
+![Students Admission Report](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png)
+
+## Conclusion
+The dashboard highlights key performance and admission trends for data-driven decision-making.
+
+## Dashboard Insights
+- **Admission Scores**: Multan leads in max test scores.
+- **Eligibility**: 22 students meet college requirements.
+- **Gender Dynamics**: Male students form the majority, but females also achieve top scores.
+- **City Comparison**: Balanced student distribution across cities.
