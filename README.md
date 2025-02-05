@@ -2,7 +2,7 @@
 
 
 ## Overview
-The report provides a comprehensive analysis of **students' admission performance**, focusing on test scores, acceptance rates, gender distribution, and city-wise statistics to aid academic decision-making.
+The AtliQ Presence Insights dashboard provides a comprehensive view of employee presence, work-from-home (WFH) trends, and sick leave (SL) patterns. It helps HR teams monitor workforce attendance, analyze trends over time, and make data-driven decisions to optimize productivity.
 
 ## Tools Used
 - **Power BI** for dashboard creation.
@@ -11,34 +11,33 @@ The report provides a comprehensive analysis of **students' admission performanc
 <a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Students Admission Dataset</a>
 
 ## Key Metrics
-- **Max Test Scores by City**: Multan and Quetta excel.
-- **Admission Status**: 58.49% accepted; 41.51% rejected.
-- **Top Performers**: High scores across age groups 18-24.
-- **Total Students**: 53, with 22 eligible for college.
+- **Presence %**: The percentage of employees present at the workplace.
+- **WFH %**: The percentage of employees working remotely.
+- **SL %**: The percentage of employees on sick leave.
+- **Daily Trends**: Presence, WFH, and SL percentages plotted over time.
+- **Days of the Week Analysis**: Breakdown of attendance metrics by weekdays.
 
 ## Features
-- Interactive charts and visuals for performance trends.
-- Gender-based comparison of scores and admission eligibility.
-- Highlighting top-scoring students by age and gender.
+- **⭐ Comprehensive Attendance Tracking**: The dashboard provides detailed insights into employee presence, work-from-home (WFH), and sick leave (SL) percentages, allowing HR teams to monitor workforce trends effectively.
+- **⭐ Interactive and Filterable Views**: Users can filter data based on date ranges, specific employees, or departments to gain customized insights and focus on particular timeframes or individuals.
+- **⭐ Day-Wise and Trend Analysis**: Presence, WFH, and SL percentages are broken down by day of the week and plotted over time, helping to identify patterns such as peak remote work days or low attendance days.
+- **⭐ Employee-Level Insights**: The dashboard includes a detailed table showing individual employees' presence, WFH, and SL percentages, enabling HR teams to assess attendance at a granular level.
 
-## Process
-- Data was collected on test scores, demographics, and admission status.
-- Cleaned and visualized using Power BI with insights into city, gender, and score distributions.
+## Process 
+- **⭐ Data Aggregation and Cleaning**: Attendance records from various sources are collected, processed, and structured to ensure accuracy before being visualized in the dashboard.
+- **⭐ Metrics Calculation and Visualization**: Key metrics like presence percentage, WFH percentage, and SL percentage are computed and displayed through tables and charts to highlight trends and variations.
+- **⭐ Trend and Anomaly Detection**: The dashboard helps HR teams analyze attendance fluctuations, detect anomalies (e.g., sudden spikes in sick leave), and investigate potential causes such as holidays or workload changes.
+- **⭐ Decision-Making and Policy Optimization**: Insights derived from the dashboard assist HR leaders in refining remote work policies, managing employee well-being, and improving overall workplace productivity.
 
 ## Dashboard Insights
-- **Admission Scores**: Multan leads in max test scores.
-- **Eligibility**: 22 students meet college requirements.
-- **Gender Dynamics**: Male students form the majority, but females also achieve top scores.
-- **City Comparison**: Balanced student distribution across cities.
+- **Overall Presence is High** (91.76%) but fluctuates across days.
+- **Friday has the Lowest Presence** (90.29%), indicating potential end-of-week absenteeism.
+- **WFH Peaks on Fridays (13.29%)**, suggesting employees prefer remote work before weekends.
+- **Sick Leave is Low (1.12%)**, but Monday shows a slight increase (1.49%), possibly due to weekend effects.
+- **Presence trends show periodic dips**, which could be linked to holidays or specific events.
 
 ## Image Preview
 ![Students Admission Report](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png)
 
 ## Conclusion
-The dashboard highlights key performance and admission trends for data-driven decision-making.
-
-## Dashboard Insights
-- **Admission Scores**: Multan leads in max test scores.
-- **Eligibility**: 22 students meet college requirements.
-- **Gender Dynamics**: Male students form the majority, but females also achieve top scores.
-- **City Comparison**: Balanced student distribution across cities.
+The insights help HR teams balance office and remote work while addressing absenteeism trends. Data-driven strategies can improve workforce efficiency and employee well-being.
