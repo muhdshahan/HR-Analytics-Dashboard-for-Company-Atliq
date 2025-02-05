@@ -37,7 +37,7 @@ The AtliQ Presence Insights dashboard provides a comprehensive view of employee 
 - **Presence trends show periodic dips**, which could be linked to holidays or specific events.
 
 ## Image Preview
-![Students Admission Report](https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/Students%20Admission%20Report.png)
+![HR-Analytics](https://github.com/muhdshahan/HR-Analytics-Dashboard-for-Company-Atliq/blob/main/one.png)
 
 ## Conclusion
 The insights help HR teams balance office and remote work while addressing absenteeism trends. Data-driven strategies can improve workforce efficiency and employee well-being.
