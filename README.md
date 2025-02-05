@@ -8,7 +8,7 @@ The AtliQ Presence Insights dashboard provides a comprehensive view of employee 
 - **Power BI** for dashboard creation.
 
 ## Dataset Used
-<a href="https://github.com/muhdshahan/PJ5-Students-Admission-Report/blob/main/student_admission_record_dirty.csv">Students Admission Dataset</a>
+<a href="https://github.com/muhdshahan/HR-Analytics-Dashboard-for-Company-Atliq/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">HR Analystics Dataset</a>
 
 ## Key Metrics
 - **Presence %**: The percentage of employees present at the workplace.
